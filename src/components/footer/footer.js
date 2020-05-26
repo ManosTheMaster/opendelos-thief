@@ -12,8 +12,15 @@ function Footer() {
         &nbsp;
         <i class="fas fa-bolt"></i>
       </p>
+      <p class={`${styles.slightly_right}`}>
+        Created by{" "}
+        <a href="https://github.com/ManosTheMaster" rel="noopener" target="__blank">
+          Manos Stamatakis
+        </a>{" "}
+        &nbsp;
+        <i class="fas fa-fan-table"></i>
+      </p>
     </div>
   );
 }
-
 export default Footer;
