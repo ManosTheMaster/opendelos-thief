@@ -14,7 +14,7 @@ function Footer() {
       </p>
       <p class={`${styles.slightly_right}`}>
         Created by{" "}
-        <a href="https://github.com/ManosTheMaster" rel="noopener" target="__blank">
+        <a href="https://manosthemaster.github.io/" rel="noopener" target="__blank">
           Manos Stamatakis
         </a>{" "}
         &nbsp;
